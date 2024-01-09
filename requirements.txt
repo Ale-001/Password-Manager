@@ -1,0 +1,7 @@
+tkinter
+pyperclip
+csv
+cryptography
+random
+string
+base64
